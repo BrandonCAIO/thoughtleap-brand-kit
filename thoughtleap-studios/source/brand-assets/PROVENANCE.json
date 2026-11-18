@@ -1,0 +1,26 @@
+{
+  "artist": "Kayla Griffin",
+  "attribution_source": "Brandon Carson, direct instruction in this chat, 2026-10-22",
+  "source_url": "https://www.canva.com/brand/kAGmuIbuJ6s/ingredient/IG-FyIcROs5V32D",
+  "original": "originals/TL_horizontalmark_white.svg",
+  "original_sha256": "0ff70dc9cb88034aed33a42a7ebcefc17ba0e326bc734d1c4f9930e350cc38c5",
+  "source_acquisition": "Original SVG downloaded from authenticated Canva brand kit. Imported unchanged in bc1761e.",
+  "derivative": "thoughtleap-wordmark.svg",
+  "derivative_operations": [
+    "Retain the first 11 source paths, exactly unchanged, forming ThoughtLeap.",
+    "Omit the three separate .ai suffix paths for a Studios sub-brand lockup. Original full parent wordmark is retained.",
+    "Set viewBox to 0 0 467 72; preserve uniform scaling and white fill.",
+    "Typeset STUDIOS separately; do not reconstruct custom ThoughtLeap lettering."
+  ],
+  "usage_rules": [
+    "Use exact path artwork for visual brand signatures and reflections.",
+    "No live-font approximation, re-tracing, generated lettering or nonuniform scaling.",
+    "Ordinary editorial mentions of the brand may use text."
+  ],
+  "approval": "Original art provided by user. Studios arrangement remains a review study.",
+  "runtime_copies": {
+    "object-atelier-v4/public/assets/thoughtleap-wordmark.svg": "thoughtleap-wordmark.svg",
+    "object-atelier-v4/public/assets/TL_horizontalmark_white.svg": "originals/TL_horizontalmark_white.svg"
+  },
+  "embedded_reflection_source": "thoughtleap-wordmark-source.js is a generated JS string of the exact derivative SVG for compatibility with both Vite and Remotion webpack. Keep it synchronized with the canonical derivative; the source SHA is recorded in its comment."
+}

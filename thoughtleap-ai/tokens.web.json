@@ -1,0 +1,21 @@
+{
+  "status": "Extracted from deployed website source; not a new design system",
+  "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+  "source_path": "site/css/site.css",
+  "css_custom_properties": {
+    "--ink": "#0B0D10",
+    "--graphite": "#171B20",
+    "--steel": "#2A3036",
+    "--platinum": "#D8DBDE",
+    "--bone": "#F3F0EA",
+    "--mute": "#9AA1A8",
+    "--jewel": "#E8542B",
+    "--hair": "rgba(216, 219, 222, 0.16)",
+    "--panel": "rgba(17, 20, 24, 0.78)",
+    "--display": "\"Archivo\", \"Helvetica Neue\", Arial, system-ui, sans-serif",
+    "--mono": "\"IBM Plex Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+    "--gl": "max(clamp(16px, 5vw, 72px), env(safe-area-inset-left, 0px))",
+    "--gr": "max(clamp(16px, 5vw, 72px), env(safe-area-inset-right, 0px))",
+    "--wide": "1240px"
+  }
+}

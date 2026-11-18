@@ -1,0 +1,47 @@
+{
+  "title": "ThoughtLeap Studios identity making film",
+  "prepared_at": "2026-10-22T22:13:15.004402+00:00",
+  "origin": "Existing ThoughtLeap Studios identity concept film, Reel 1.",
+  "description": "An orange dot accompanies the arrow as its outline is drawn, given depth, refined and revealed in motion.",
+  "adaptation": "Full sequence retained. Web encodes resize the original 1920 by 1080 film while preserving its 60 fps and 24.2 second duration. No sound track is present.",
+  "assets": [
+    {
+      "file": "making-960.mp4",
+      "public_url": "/assets/making/making-960.mp4",
+      "bytes": 924432,
+      "sha256": "fdaf90b167525a324979f8ee1f1b8ca167648f1fb475d3b39c1772d806bafb52",
+      "width": 960,
+      "height": 540,
+      "duration_seconds": 24.2,
+      "frame_rate": 60,
+      "codec": "H.264 High",
+      "pixel_format": "yuv420p",
+      "audio_streams": 0,
+      "fast_start": true
+    },
+    {
+      "file": "making-640.mp4",
+      "public_url": "/assets/making/making-640.mp4",
+      "bytes": 515012,
+      "sha256": "a81646d0f8746b4545573c4ba16210a23626a0529a0ac877d61f8185d379e04a",
+      "width": 640,
+      "height": 360,
+      "duration_seconds": 24.2,
+      "frame_rate": 60,
+      "codec": "H.264 High",
+      "pixel_format": "yuv420p",
+      "audio_streams": 0,
+      "fast_start": true
+    },
+    {
+      "file": "making-poster.jpg",
+      "public_url": "/assets/making/making-poster.jpg",
+      "bytes": 16678,
+      "sha256": "71ae21f7c36f30a0600a9ad3dc110b1a54c66222108e4c0b01cf19c4a36fe362",
+      "width": 960,
+      "height": 540,
+      "format": "JPEG",
+      "source_frame_seconds": 22
+    }
+  ]
+}

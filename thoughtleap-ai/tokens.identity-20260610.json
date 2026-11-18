@@ -1,0 +1,178 @@
+{
+  "$description": "ThoughtLeap brand design tokens. Extracted 2026-06-10 from the ThoughtLeap Canva Brand Kit (kAGmuIbuJ6s) and verified by pixel-sampling exported brand designs (DAGp4K1U0Is social posts, DAG2oUDNBT8 marketing). Hex values are exact, not approximations.",
+  "color": {
+    "brand": {
+      "navy": {
+        "$type": "color",
+        "$value": "#203B6B",
+        "$description": "Primary brand color. Exact wordmark color (TL_horizontalmark_navy.svg). Carries full-bleed grounds in brand layouts."
+      },
+      "navy-deep": {
+        "$type": "color",
+        "$value": "#223C6C",
+        "$description": "Logomark arrow fill (Arrow_Icons-01.svg). Functionally same family as navy; use navy unless matching the logomark exactly."
+      },
+      "vermilion": {
+        "$type": "color",
+        "$value": "#E8542B",
+        "$description": "Signature accent. Logomark dot, eyebrow labels, full-bleed accent grounds. 3.3:1 on cream - large text and graphics only, never body copy."
+      },
+      "cream": {
+        "$type": "color",
+        "$value": "#F4F3EE",
+        "$description": "Brand surface. Card and panel background across all sampled designs (58-87% coverage on card pages)."
+      },
+      "ink": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Headline and body ink on cream surfaces. Verified true black in exports, not navy."
+      },
+      "white": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Text and wordmark on navy or vermilion grounds."
+      }
+    },
+    "secondary": {
+      "steel-blue": {
+        "$type": "color",
+        "$value": "#87ABD1",
+        "$description": "Secondary ground (full-bleed alternate to navy). Navy text on it passes 4.62:1."
+      },
+      "sky": {
+        "$type": "color",
+        "$value": "#6AABD2",
+        "$description": "Tagline and accent text on navy grounds. 4.41:1 on navy - large/bold text only."
+      },
+      "mist": {
+        "$type": "color",
+        "$value": "#CEDBED",
+        "$description": "Core identity light blue, not just a tint: logo badge background, the light-blue logo colorway, supporting text on navy (7.89:1, body-safe), and an occasional full-bleed ground (launch post p7 at 74.5%)."
+      },
+      "silver": {
+        "$type": "color",
+        "$value": "#E5E6E5",
+        "$description": "Light gray panel color on cream/white layouts (24-25% coverage where used). Verified in social posts p2 and launch posts p2."
+      },
+      "frost": {
+        "$type": "color",
+        "$value": "#EEF0F3",
+        "$description": "Cool near-white panel gray on white layouts (15% coverage where used). Verified in social/launch posts p4."
+      },
+      "tan": {
+        "$type": "color",
+        "$value": "#DBB38A",
+        "$description": "Warm secondary block color (photo frames, alternating panels)."
+      },
+      "peach": {
+        "$type": "color",
+        "$value": "#EFB29E",
+        "$description": "Small decorative tint (dots, soft shapes). Decoration only."
+      },
+      "ember": {
+        "$type": "color",
+        "$value": "#C74825",
+        "$description": "Darkened vermilion used as the hard offset shadow behind cream cards on vermilion grounds."
+      }
+    },
+    "semantic": {
+      "bg-ground": { "$type": "color", "$value": "{color.brand.navy}", "$description": "Default page/section ground." },
+      "bg-ground-accent": { "$type": "color", "$value": "{color.brand.vermilion}", "$description": "High-energy alternate ground (heroes, CTAs)." },
+      "bg-surface": { "$type": "color", "$value": "{color.brand.cream}", "$description": "Cards and content panels." },
+      "text-on-surface": { "$type": "color", "$value": "{color.brand.ink}", "$description": "18.9:1 on cream." },
+      "text-on-ground": { "$type": "color", "$value": "{color.brand.white}", "$description": "11.06:1 on navy." },
+      "text-secondary-on-ground": { "$type": "color", "$value": "{color.secondary.mist}", "$description": "7.89:1 on navy, body-safe." },
+      "accent": { "$type": "color", "$value": "{color.brand.vermilion}" },
+      "eyebrow": { "$type": "color", "$value": "{color.brand.vermilion}", "$description": "Short uppercase labels on cream, e.g. IT'S TIME. Large/bold only (3.3:1)." }
+    }
+  },
+  "typography": {
+    "display": {
+      "$description": "Open Sans, confirmed by Brandon 2026-06-10. Headlines bold, set in ALL CAPS on social cards, sentence case for taglines, tight leading.",
+      "family": "Open Sans",
+      "weight": 700,
+      "case": "uppercase for short headlines, sentence case for taglines",
+      "fallback-stack": "'Open Sans', system-ui, -apple-system, 'Segoe UI', sans-serif"
+    },
+    "body": {
+      "$description": "Open Sans, confirmed by Brandon 2026-06-10. Regular weight, sentence case, generous line height (~1.5).",
+      "family": "Open Sans",
+      "weight": 400,
+      "fallback-stack": "'Open Sans', system-ui, -apple-system, 'Segoe UI', sans-serif"
+    }
+  },
+  "logo": {
+    "$description": "Complete variant inventory from account-wide Canva sweep 2026-06-10 (folders, design search, fills inspection of 12 designs). Local PNGs are low-res pulls; master SVGs live in Canva. Colors below are pixel-sampled from the actual asset files.",
+    "wordmark-horizontal-navy": {
+      "asset": "assets/logo-wordmark-navy.png",
+      "canva-asset-id": "MAGnJ_Frl04",
+      "canva-asset-name": "TL_horizontalmark_navy.svg",
+      "colors": ["#203B6B"],
+      "native-size": "516x72",
+      "$description": "Horizontal 'ThoughtLeap.ai', navy. The footer sign-off on cream social cards. A BLACK-rendered instance (#000000, pixel-verified) appears on some cream cards - that is a Canva recolor of this file, no separate black SVG exists."
+    },
+    "wordmark-horizontal-white": {
+      "asset": "assets/logos/wordmark-horizontal-white.png",
+      "canva-asset-id": "MAGnJ9klmA0",
+      "canva-asset-name": "TL_horizontalmark_white.svg",
+      "colors": ["#FFFFFF"],
+      "native-size": "516x72",
+      "$description": "White counterpart of the navy horizontal wordmark, for navy/vermilion grounds (Facebook covers, banners)."
+    },
+    "lockup-horizontal-lightblue": {
+      "asset": "assets/logos/wordmark-horizontal-lightblue.png",
+      "canva-asset-id": "MAGnJyV40Ns",
+      "canva-asset-name": "TL_vertical_lightblue.svg",
+      "colors": ["#CEDBED", "#203B6B", "#E8542B"],
+      "native-size": "580x72",
+      "$description": "Mist/ice-blue horizontal lockup WITH the rounded-square badge inline (navy arrow + vermilion dot). Note: Canva filename says 'vertical' but the asset is horizontal. Used on navy LinkedIn banners."
+    },
+    "lockup-stacked-navy": {
+      "asset": "assets/logos/wordmark-stacked-navy-orange.png",
+      "canva-asset-id": "MAGnJ4EKeYE",
+      "canva-asset-name": "TL_vertical_navy_orange.svg",
+      "colors": ["#203B6B", "#CEDBED", "#E8542B"],
+      "native-size": "291x128",
+      "$description": "PRIMARY HERO LOCKUP: two-line 'Thought / Leap.ai' in navy with mist rounded-square badge (navy arrow + vermilion dot). Shown full-bleed on cream in the brand's own social set."
+    },
+    "lockup-stacked-white": {
+      "asset": "assets/logos/wordmark-stacked-white.png",
+      "canva-asset-id": "MAGnJzpGq_4",
+      "canva-asset-name": "TL_vertical_white-03.svg",
+      "colors": ["#FFFFFF", "#CEDBED", "#203B6B", "#E8542B"],
+      "native-size": "291x128",
+      "$description": "White stacked lockup with mist badge, for navy grounds ('For the Humans' post)."
+    },
+    "logomark-navy": {
+      "asset": "assets/logomark-arrow.png",
+      "canva-asset-id": "MAGoTHQhDLo",
+      "canva-asset-name": "Arrow_Icons-01.svg",
+      "colors": ["#223C6C", "#E8542B"],
+      "native-size": "500x500",
+      "$description": "Paper-plane arrow (navy) + offset dot (vermilion). Standalone mark; also used oversized as background watermark."
+    },
+    "logomark-lightblue": {
+      "asset": "assets/logos/logomark-arrow-lightblue.png",
+      "canva-asset-id": "MAGoTOWw098",
+      "canva-asset-name": "Arrow_Icons-03.svg",
+      "colors": ["#D1DBEB", "#E8542B"],
+      "native-size": "500x500",
+      "$description": "Ice-blue arrow + vermilion dot, for navy grounds. Hero graphic on LinkedIn banners; the avatar mark on the navy LinkedIn profile pic. Fill #D1DBEB is a hair lighter than mist #CEDBED (different file, same family)."
+    },
+    "logomark-navy-alt": {
+      "asset": "assets/logos/logomark-arrow-blue.png",
+      "canva-asset-id": "MAHBW1qAa7E",
+      "canva-asset-name": "TLArrow_Icon_blue.svg",
+      "colors": ["#223C6C", "#E8542B"],
+      "native-size": "500x500",
+      "$description": "Later re-upload (Feb 2026, in Uploads) of the navy/vermilion arrow - same colorway as Arrow_Icons-01, slightly different geometry/crop. Prefer Arrow_Icons-01 unless matching newer collateral."
+    },
+    "gaps": {
+      "$description": "Arrow_Icons-02.svg was never found in any folder or design (the -01/-03 numbering implies it exists in the Brand Kit, which the API cannot enumerate). No separate black wordmark file exists - black instances are recolors of the navy SVG."
+    }
+  },
+  "shape": {
+    "card-radius": { "$value": "40px", "$description": "Approximate large rounded-corner radius on 1080px social cards. Scale proportionally (~3.7% of canvas width)." },
+    "card-shadow": { "$value": "offset hard shadow, no blur, darker shade of the ground hue (e.g. ember #C74825 on vermilion)", "$description": "Signature offset-panel motif: cream card sits ~15px offset above a same-shape darker copy." }
+  }
+}

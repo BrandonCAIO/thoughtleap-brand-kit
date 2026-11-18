@@ -1,0 +1,18 @@
+{
+  "status": "Extracted from deployed website source; not a new design system",
+  "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+  "source_path": "brand-sites/studios/home.css",
+  "css_custom_properties": {
+    "--night": "#03070d",
+    "--ink": "#090d12",
+    "--panel": "#0b1117",
+    "--paper": "#f0eee9",
+    "--orange": "#F37021",
+    "--muted": "#aeb8c3",
+    "--soft": "#c9d1d9",
+    "--line": "#ffffff1c",
+    "--gutter": "clamp(20px,5.6vw,96px)",
+    "--ease": "cubic-bezier(.2,.8,.2,1)",
+    "--drift": "cubic-bezier(.45,0,.55,1)"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "verified_at_utc": "2026-11-18T15:21:21.778623+00:00",
+  "scope": "Selected live files compared byte for byte with recorded production sources or built release. This does not claim a visual review of every page.",
+  "studios_source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+  "ai_source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+  "assets": [
+    {
+      "url": "https://thoughtleap.ai/",
+      "http_status": 200,
+      "sha256": "1f57605aee49a6ceea7dd831a84f73ebb631d67c2bbb724acb1926909f11b720",
+      "bytes": 24985,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleap.ai/css/site.css",
+      "http_status": 200,
+      "sha256": "5be49c5f471f4dcaf01cb008153b78accdeef26fa35ad5a03b4e2471956c4c10",
+      "bytes": 20543,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleap.ai/js/stage.js",
+      "http_status": 200,
+      "sha256": "0f1e63ef880b1c25c853e104baec28b7c7d2071c3f2eee33ff3824739869798a",
+      "bytes": 26945,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/studios-DmnoS-a1.js",
+      "http_status": 200,
+      "sha256": "ff7951ee1cc1dc5074dd15a9a67bd18ab84b7b1abc6181cf8245ff25caf660c2",
+      "bytes": 14181,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/studios-CamJUpuk.css",
+      "http_status": 200,
+      "sha256": "31b195212fbbb04a88a7c8b89f8b8c4dc212abf8cd428e507e444d41bb8c8f6a",
+      "bytes": 31011,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/mountObject-DubWcmE0.js",
+      "http_status": 200,
+      "sha256": "21a0ec35f17519b0261c20e4b1f0c04a90582b7d943e97a6d5ff03bdc0ee79fe",
+      "bytes": 354298,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/thoughtleap-wordmark.svg",
+      "http_status": 200,
+      "sha256": "244bbefa4d8fea40a7341f3c0ef08242fe0b9ccd5df59fe4dc517cd830b57791",
+      "bytes": 3208,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/TL_horizontalmark_white.svg",
+      "http_status": 200,
+      "sha256": "0ff70dc9cb88034aed33a42a7ebcefc17ba0e326bc734d1c4f9930e350cc38c5",
+      "bytes": 4118,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/studio-small.hdr",
+      "http_status": 200,
+      "sha256": "30933d55e45f0795daf49f3cbefbe0e5ebcb821ee04fb0a2818c02ffc3938817",
+      "bytes": 1686299,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/making/making-960.mp4",
+      "http_status": 200,
+      "sha256": "fdaf90b167525a324979f8ee1f1b8ca167648f1fb475d3b39c1772d806bafb52",
+      "bytes": 924432,
+      "matches_recorded_source_or_build": true
+    },
+    {
+      "url": "https://thoughtleapstudios.com/assets/making/making-640.mp4",
+      "http_status": 200,
+      "sha256": "a81646d0f8746b4545573c4ba16210a23626a0529a0ac877d61f8185d379e04a",
+      "bytes": 515012,
+      "matches_recorded_source_or_build": true
+    }
+  ],
+  "kit_checks": {
+    "viewer_production_build": "passed, Vite 6.4.1, 34 modules",
+    "viewer_visual_review": "Not performed in this packaging task; original runtime source preserved unchanged",
+    "website_deployments": "None"
+  }
+}

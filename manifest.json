@@ -1,0 +1,685 @@
+{
+  "schema_version": 1,
+  "version": "2026-11-18",
+  "source_status": "Deployed website sources and original identity artwork; see scoped brand guides",
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 63,
+      "sha256": "409624d78cef7e7383a009f1b39ba5c02b8df548347165274d71ee23731c6ead",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "AGENTS.md",
+      "bytes": 1696,
+      "sha256": "0d93e7b1250f2078e5e67c7ce77c0225b1743669d2df8379b84034b34f490e56",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "README.md",
+      "bytes": 3728,
+      "sha256": "76ab35a27aa30d734c8802706393df30319568a950dcc0212e987f2e63d99823",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "RIGHTS.md",
+      "bytes": 1174,
+      "sha256": "9a64f8fee5cfaddd12a38435dab6281270dddd3744baac667b0bd680bfa03729",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "scripts/verify.py",
+      "bytes": 1282,
+      "sha256": "49a619863f3c73c707c630cd3e08beb954db86f0e29331bb070c5bb402f815d3",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-ai/BRAND-GUIDE.md",
+      "bytes": 2407,
+      "sha256": "d8a822047fa87ce1b5d9079a893ef745e83e2c06acd4a94cf15c4a8fe49cc896",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/logomark-arrow-blue.png",
+      "bytes": 5257,
+      "sha256": "2924ac69b4c2a07bb2820b0860a167f9412d7ad0f4dd835db522bb9745878ef1",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/logomark-arrow-blue.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/logomark-arrow-lightblue.png",
+      "bytes": 5344,
+      "sha256": "ba0509ec7edf9fd491c38ab5850c4689b06b47079da4584231d76f5aff4cf0d1",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/logomark-arrow-lightblue.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/logomark-arrow-navy.png",
+      "bytes": 5257,
+      "sha256": "2924ac69b4c2a07bb2820b0860a167f9412d7ad0f4dd835db522bb9745878ef1",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/logomark-arrow-navy.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/wordmark-horizontal-lightblue.png",
+      "bytes": 4678,
+      "sha256": "2e345dbb44fb366038d68c8fb13a4fdfdeea19c125d0bab56f64a0d9835618a9",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/wordmark-horizontal-lightblue.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/wordmark-horizontal-navy.png",
+      "bytes": 4607,
+      "sha256": "f437ee7490bf0d29d74be01db58133b28f9e3f5a1b913aa3d50b0f4f951384b0",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/wordmark-horizontal-navy.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/wordmark-horizontal-white.png",
+      "bytes": 2986,
+      "sha256": "7d90617ef326d16be09437857d7143950a621c8c4cfc3962b5cdc3f7d0c2a6e0",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/wordmark-horizontal-white.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/wordmark-stacked-navy-orange.png",
+      "bytes": 8821,
+      "sha256": "9176169dfc36c47e4b1a5c0a8d3260279074cbbf101e9f54c63f1023d37e74d9",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/wordmark-stacked-navy-orange.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/png/wordmark-stacked-white.png",
+      "bytes": 4608,
+      "sha256": "0bed84aa56c1b001e9725b6cf6d0b5fe2a0b0c62be680c05ccec8ee188775843",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/png/wordmark-stacked-white.png",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/svg/logomark-arrow-navy.svg",
+      "bytes": 448,
+      "sha256": "58ae4d6a97e9eba96e135736f25199db6366b4fe24022645981e412c1277d4c0",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/svg/logomark-arrow-navy.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/svg/logomark-arrow-white-orange.svg",
+      "bytes": 889,
+      "sha256": "dbb4242f78cbdafdd1a155b1f4db64f1a9ab77d30d908cf91bf3773f2781ba15",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/svg/logomark-arrow-white-orange.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/svg/logomark-arrow-white.svg",
+      "bytes": 445,
+      "sha256": "6f33eff0a33e1a41d6916702963fea26b9dc280b705e8e20de870cde54d634bb",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/svg/logomark-arrow-white.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/svg/wordmark-stacked-navy-orange.svg",
+      "bytes": 4600,
+      "sha256": "2bd7b4d4c3be7117e079c6abb4bcfa7f7f9fb528d8c426229e17ba5b85a6fcaa",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/svg/wordmark-stacked-navy-orange.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/logos/svg/wordmark-stacked-white.svg",
+      "bytes": 4575,
+      "sha256": "5b3c8d6a7943f7142a5e230729b83610347da52fc1d9bd1d9d53f0df5f7306fa",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/logos/svg/wordmark-stacked-white.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/assets/logos/logomark-arrow-navy.svg",
+      "bytes": 311,
+      "sha256": "482d43ef3fbd879c67249f04e89d894e88d19e2f2d71512ad43b7319e57a3eb3",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/assets/logos/logomark-arrow-navy.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/assets/logos/logomark-arrow-white-orange.svg",
+      "bytes": 752,
+      "sha256": "f79419ed641c8753518027e194e404a4b6fb3268ad48dfcfb79b2e4c23f64059",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/assets/logos/logomark-arrow-white-orange.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/assets/logos/logomark-arrow-white.svg",
+      "bytes": 308,
+      "sha256": "3d98bf68d467c7a275f75552df1c2643e17b91260919ca4d0525519eacea3967",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/assets/logos/logomark-arrow-white.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/assets/logos/wordmark-stacked-navy-orange.svg",
+      "bytes": 4463,
+      "sha256": "98942a0c1e20539b7ed8f12e2abb81424195558180ceab5d6850502019cf3395",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/assets/logos/wordmark-stacked-navy-orange.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/assets/logos/wordmark-stacked-white.svg",
+      "bytes": 4438,
+      "sha256": "a7fefcb49165ad39ae05735a159320471f211fc957443521b760cdd1bfe2cbea",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/assets/logos/wordmark-stacked-white.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/assets/studio.hdr",
+      "bytes": 1686299,
+      "sha256": "30933d55e45f0795daf49f3cbefbe0e5ebcb821ee04fb0a2818c02ffc3938817",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/assets/studio.hdr",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/css/site.css",
+      "bytes": 20543,
+      "sha256": "5be49c5f471f4dcaf01cb008153b78accdeef26fa35ad5a03b4e2471956c4c10",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/css/site.css",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/fonts/Archivo-OFL.txt",
+      "bytes": 4388,
+      "sha256": "108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/fonts/Archivo-OFL.txt",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/fonts/Archivo-VF.ttf",
+      "bytes": 658596,
+      "sha256": "0e094a7d3c7c4c25cf1310c4b30014f1dae9332220b1c2c88f4fa996f0b05053",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/fonts/Archivo-VF.ttf",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/fonts/IBM-Plex-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/fonts/IBM-Plex-OFL.txt",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 133796,
+      "sha256": "ab08018ccd276b79fb2c636bb95b9c543598f9d50505fe92506fcb4dae7810cd",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/fonts/IBMPlexMono-Regular.ttf",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/source/site/js/stage.js",
+      "bytes": 26945,
+      "sha256": "0f1e63ef880b1c25c853e104baec28b7c7d2071c3f2eee33ff3824739869798a",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "site/js/stage.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/tokens.identity-20260610.json",
+      "bytes": 9573,
+      "sha256": "58e3a7c138161a05b5222e80f76a60b72c361b9179f95a4083bf98c8ceda869a",
+      "source_repository": "BrandonCAIO/carson-brand",
+      "source_commit": "b795dee288ac2ce5ff7e69afaebabd6bbf71b458",
+      "source_path": "brand/thoughtleap/tokens.json",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-ai/tokens.web.json",
+      "bytes": 821,
+      "sha256": "1f00d0568b19f24b9f9c9b64722ecb2981cc0985a8653a7c28b89dcbcc487c27",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/BRAND-GUIDE.md",
+      "bytes": 3044,
+      "sha256": "37456dba0cfe37f76032bc89b2f8cafa5d68f5303892ddc38c4fccd6cc434639",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/OBJECTS.md",
+      "bytes": 2420,
+      "sha256": "8f0216aae78a73212f8ba44f9378ea32bbf27a9089865ee94720c35c823a9501",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/media/making-640.mp4",
+      "bytes": 515012,
+      "sha256": "a81646d0f8746b4545573c4ba16210a23626a0529a0ac877d61f8185d379e04a",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/making/making-640.mp4",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/media/making-960.mp4",
+      "bytes": 924432,
+      "sha256": "fdaf90b167525a324979f8ee1f1b8ca167648f1fb475d3b39c1772d806bafb52",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/making/making-960.mp4",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/media/making-poster.jpg",
+      "bytes": 16678,
+      "sha256": "71ae21f7c36f30a0600a9ad3dc110b1a54c66222108e4c0b01cf19c4a36fe362",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/making/making-poster.jpg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/media/provenance.json",
+      "bytes": 1642,
+      "sha256": "a80e1f67e88232c2aa29e6598bd0b502ac517ee07f578017227475b7e1f1fade",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/making/provenance.json",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/presets/live-studios.json",
+      "bytes": 1312,
+      "sha256": "7a7142a35d96726e6e6fd3910397623573c1e5aa6413633d58081d8dfabf76af",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-assets/PROVENANCE.json",
+      "bytes": 1744,
+      "sha256": "452886d09dcc766d778d244abe5442d83cbd83b90e61086487592f3fab298001",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-assets/PROVENANCE.json",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-assets/originals/TL_horizontalmark_white.svg",
+      "bytes": 4118,
+      "sha256": "0ff70dc9cb88034aed33a42a7ebcefc17ba0e326bc734d1c4f9930e350cc38c5",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-assets/originals/TL_horizontalmark_white.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-assets/thoughtleap-wordmark-source.js",
+      "bytes": 3664,
+      "sha256": "d06da4862a711b13ce4d0fcc3c35884739cd3209af55c2a0bb2133f6188acc8d",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-assets/thoughtleap-wordmark-source.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-assets/thoughtleap-wordmark.svg",
+      "bytes": 3208,
+      "sha256": "244bbefa4d8fea40a7341f3c0ef08242fe0b9ccd5df59fe4dc517cd830b57791",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-assets/thoughtleap-wordmark.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-sites/shared/collision.js",
+      "bytes": 8473,
+      "sha256": "3e9b0eb9d4f0556aa25c4c4c1591f86916c2f1178fce0514ff94dc2cebb0190a",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-sites/shared/collision.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-sites/shared/mountObject.js",
+      "bytes": 17992,
+      "sha256": "aced922046bcd8735bc966a1ecef42db514abf0d5a00511d2aca548d5f52c5d9",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-sites/shared/mountObject.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-sites/shared/physics.js",
+      "bytes": 5165,
+      "sha256": "e9bd4c1bd53846c73bd9418409b4ea40c253aa6ab4ae4a5a1f22748db164df39",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-sites/shared/physics.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/brand-sites/studios/home.css",
+      "bytes": 32266,
+      "sha256": "dde1856084c7e9e7870f6cfab42ae83cc17c5f9c428940cd24e0175f13f28a21",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "brand-sites/studios/home.css",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/index.html",
+      "bytes": 1429,
+      "sha256": "d17c99278c6f527ec3aae87ce64f46b8232738f1254a86e829e107610b8cf773",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/package-lock.json",
+      "bytes": 138952,
+      "sha256": "b269d2304ed6860c1d0996e10ef4224b912a5d0fa18f4ab0ac7ed8dcf9e5e5d7",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/package-lock.json",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/package.json",
+      "bytes": 662,
+      "sha256": "e24d32d4693eff0cf3252004ad970fdb0492fac4c47925057c9f698f791abff3",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/package.json",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/presets/double-bevel-dark-stage.json",
+      "bytes": 1244,
+      "sha256": "a8cf2391790bcdf3e7d910aca188a0d809d0f4e2f8b44569dda860936b26082f",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/presets/double-bevel-dark-stage.json",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/Archivo-OFL.txt",
+      "bytes": 4388,
+      "sha256": "108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/Archivo-OFL.txt",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/Archivo-VF.ttf",
+      "bytes": 658596,
+      "sha256": "0e094a7d3c7c4c25cf1310c4b30014f1dae9332220b1c2c88f4fa996f0b05053",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/Archivo-VF.ttf",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/IBM-Plex-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/IBM-Plex-OFL.txt",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/IBMPlexMono-Regular.ttf",
+      "bytes": 133796,
+      "sha256": "ab08018ccd276b79fb2c636bb95b9c543598f9d50505fe92506fcb4dae7810cd",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/IBMPlexMono-Regular.ttf",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/TL_horizontalmark_white.svg",
+      "bytes": 4118,
+      "sha256": "0ff70dc9cb88034aed33a42a7ebcefc17ba0e326bc734d1c4f9930e350cc38c5",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/TL_horizontalmark_white.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/mark.svg",
+      "bytes": 208,
+      "sha256": "360c71cee8e0f34fbaf3c47ffda189fbd377c38d5cec1aeb8584485ca65e31c7",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/mark.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/object-fallback.svg",
+      "bytes": 1205,
+      "sha256": "21dad1aa05479e1f4ef2e4926b19196db763e8abae3a83727acbf7b4fab7241b",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/object-fallback.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/studio-small.hdr",
+      "bytes": 1686299,
+      "sha256": "30933d55e45f0795daf49f3cbefbe0e5ebcb821ee04fb0a2818c02ffc3938817",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/studio-small.hdr",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/public/assets/thoughtleap-wordmark.svg",
+      "bytes": 3208,
+      "sha256": "244bbefa4d8fea40a7341f3c0ef08242fe0b9ccd5df59fe4dc517cd830b57791",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/public/assets/thoughtleap-wordmark.svg",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/remotion.config.mjs",
+      "bytes": 222,
+      "sha256": "1c6947b2d675a3439ab5f664fd001584c061ca73be7a3cc74d458008fd26ea82",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/remotion.config.mjs",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/film/ObjectStudy.jsx",
+      "bytes": 4497,
+      "sha256": "d141f65faa10dd396b4b9a06493770d666401506999e3772a3c887caa35ef425",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/film/ObjectStudy.jsx",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/film/contract.js",
+      "bytes": 1964,
+      "sha256": "e85f77425d9e94808fd7cb1ab4237aecb49f5072c6a38dec8a8a746596ad5ca4",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/film/contract.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/film/index.jsx",
+      "bytes": 885,
+      "sha256": "747d330925fd5d0090d8e5ac5b2d7efe59842142be8e8f5f9cfe49e30172b3b3",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/film/index.jsx",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/castShadowLayer.js",
+      "bytes": 4811,
+      "sha256": "fd0ec712bc3fe74bb7c515fc1a1b759c48f8c5114b3a05c7898f1e9ed97d0c62",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/castShadowLayer.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/createObjectScene.js",
+      "bytes": 32857,
+      "sha256": "5facac215c4e1f2f0bb896a0c07d4a8c31d345f077ab5702afa213640a5602ec",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/createObjectScene.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/metalCardReflections.js",
+      "bytes": 12460,
+      "sha256": "bfd3c771c2fc3038a62a133ed14283f61be8d9e5b4f7d5b243b256f764c579e8",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/metalCardReflections.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/precisionGeometry.js",
+      "bytes": 9907,
+      "sha256": "e58914675f752a56548a539292e4173adafc754dbb06dfb2c7e34e6fbdd21edc",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/precisionGeometry.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/reelLaunch.js",
+      "bytes": 1150,
+      "sha256": "82975e06d9bde8bc6b4db944f4fe88de763251c8d23505c379086a1e9e88f79f",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/reelLaunch.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/rocketLaunch.js",
+      "bytes": 1202,
+      "sha256": "f4e5e5dec9d7b7dcd0b5d3c4715f53d794a7320296625b10fae440682902462d",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/rocketLaunch.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/settings.js",
+      "bytes": 8690,
+      "sha256": "bb0171469b297bc44c1a5fcbfc925d8b01619762cf247ceba04b144e991e77ce",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/settings.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/sideEngravingGeometry.js",
+      "bytes": 6698,
+      "sha256": "4d176e1afe0a19993b9aca22aaf826b1eb0839b3398e856c1f4778ed035a7d3d",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/sideEngravingGeometry.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/sideEngravingOutline.js",
+      "bytes": 12066,
+      "sha256": "63c5d64cd7408756326b38f954f4b2bfdc987fab8d7fd46910682e1754ebabd3",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/sideEngravingOutline.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/object-atelier-v4/src/scene/wordmarkReflector.js",
+      "bytes": 7857,
+      "sha256": "1224058b4bb5b82172c0ed61a9137b519d3be580ae0b25dedfee607d49e234c8",
+      "source_repository": "BrandonCAIO/tls-codex-workspace",
+      "source_commit": "87e37b0bb36569a853d438d062c0b064ec18121c",
+      "source_path": "object-atelier-v4/src/scene/wordmarkReflector.js",
+      "transformation": "None; byte-exact copy"
+    },
+    {
+      "file": "thoughtleap-studios/source/package.json",
+      "bytes": 33,
+      "sha256": "a90fc33418afa2b9cbf4768524b021135b965ecdf993457505bfae3ac44a8428",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/source/viewer.js",
+      "bytes": 1214,
+      "sha256": "b725f2c7817cf31bcdaccc75878e5685df6ab0fb40245b9e6ba76a5f176bfe9a",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/source/vite.config.mjs",
+      "bytes": 601,
+      "sha256": "4bcdb1affc79b4b7aebf2bdad6701b759fe047eac7c24ef081e8ff4c16c67933",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "thoughtleap-studios/tokens.web.json",
+      "bytes": 562,
+      "sha256": "a0856a07f68608e6a5810772828810cce8f710eb6cd2db70c5248cd20f9a4b58",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "verification/production.json",
+      "bytes": 3478,
+      "sha256": "7dcab07b0b16c5dc6053d908da12bf3edb83e65688fdf75fd0bc7b8e26068a7c",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    },
+    {
+      "file": "verification/source-records.json",
+      "bytes": 27081,
+      "sha256": "f250a5a256f7e27c028693f25ea8d5f5ee2c706798c4aaa4753c30e9cd6911d4",
+      "role": "Kit documentation, extracted settings, verification or example integration"
+    }
+  ]
+}
